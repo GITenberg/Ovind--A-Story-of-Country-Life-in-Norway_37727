@@ -1,0 +1,39 @@
+_repo: Ovind--A-Story-of-Country-Life-in-Norway_37727
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Hjerleid, Elizabeth
+    gutenberg_agent_id: '39010'
+    url: http://www.gutenberg.org/2009/agents/39010
+  - agent_name: Hjerleid, Sivert
+    gutenberg_agent_id: '39009'
+    url: http://www.gutenberg.org/2009/agents/39009
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+tableOfContents: Ovind -- The eagle's nest -- The father.
+title: 'Ovind: A Story of Country Life in Norway'
+url: http://www.gutenberg.org/ebooks/37727
